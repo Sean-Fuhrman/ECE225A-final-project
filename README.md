@@ -1,6 +1,6 @@
 # ECE 225A Project
 
-# Project Steps
+Files:
 
-# 1. EDA
-# 2. Predictive Modeling
+eda.ipynb - Exploratory Data Analysis code
+predictive_model.ipynb - Predictive model code
